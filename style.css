@@ -1,0 +1,16 @@
+header{
+    background-color: lightblue;
+    padding: 30px;
+}
+
+.pendaftaran>a{
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: black;
+    margin: 10px;
+    text-align: right;
+}
