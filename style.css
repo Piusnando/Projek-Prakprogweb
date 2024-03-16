@@ -4,6 +4,7 @@ header{
 }
 
 .pendaftaran>a{
+    display: inline-block;
     background-color: darkblue;
     color: white;
     padding: 10px;
@@ -12,5 +13,12 @@ header{
     border-radius: 15px;
     border-color: black;
     margin: 10px;
-    text-align: right;
+    position: relative;
+    left: 85%;
+}
+
+.navbar#search{
+    display: inline-block;
+    position: relative;
+    left: 40%;
 }
